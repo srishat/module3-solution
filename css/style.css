@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#header-nav {
+	border: 0;
+	border-radius: 0;
+	background-color: #dcd8d8;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	font-size: 30px !important;
+	color: #000 !important;
+}
+
+#nav-list a:hover {
+  	background: #fff; 
+}
+
+.container
+{
+	background-color: #dcd8d8;
+}
+
+.container h2{
+	color: #000;
+}
